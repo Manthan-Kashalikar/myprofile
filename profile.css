@@ -97,6 +97,10 @@ a {
     margin-right: 50px;
     font-size: 39px;
     overflow: scroll;
+    background-color: lightblue;
+  width: 810px;
+  height: 310px;
+  overflow: auto    ;
 }
 
 #skill {
