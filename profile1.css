@@ -1,0 +1,144 @@
+body {
+    font-family: 'Baloo 2', cursive;
+    margin: auto;
+    background-color: rgb(240, 115, 66);
+}
+
+a {
+    text-decoration: none;
+}
+
+#heading {
+    margin-top: 1px;
+    top: 20px;
+    background-color: #8e0098;
+    border-radius: 50px;
+    position: fixed;
+    width: 100%;
+
+}
+
+#name {
+    display: inline-block;
+    text-align: center;
+    margin-left: 35%;
+
+
+}
+
+.social {
+    margin-top: 22px;
+    float: right;
+    margin-right: 10px;
+
+
+
+}
+
+#gmail {
+    padding: 3px;
+    border-radius: 30px;
+    float: right;
+    height: 50px;
+    width: 50px;
+
+}
+
+#git {
+    float: right;
+    height: 50px;
+    padding: 3px;
+    border-radius: 30px;
+    width: 50px;
+
+}
+
+#insta {
+    float: right;
+    height: 50px;
+    padding: 3px;
+    border-radius: 30px;
+    width: 50px;
+
+}
+
+#fb {
+    float: right;
+    height: 50px;
+    padding: 3px;
+    border-radius: 30px;
+    width: 50px;
+
+}
+
+/* #description {
+    float: left;
+    top: 100px;
+
+
+} */
+
+#pic {
+    float: left;
+    top: 170px;
+    width: 18%;
+    margin-top: 170px;
+    margin-left: 80px;
+    height: 320px;
+    border-radius: 30px;
+}
+
+
+#myinfo {
+    top: 170px;
+    /* border: 2mm solid red; */
+    width: 60%;
+    float: right;
+    /* margin-left: 128px; */
+    margin-top: 170px;
+    color: #291919;
+    background-color: #ca9d3a4d;
+    border-radius: 30PX;
+    padding: 10PX;
+
+    margin-right: 50px;
+    font-size: 39px;
+}
+
+#t1 {
+        top: 600px;
+        color: aqua;
+    background-color: #e7a516ab;
+}
+.tech {
+    background-color: aliceblue;
+    height: 400px;
+    width: 100%;
+    top: 30%;
+    border: 1mm solid red;
+}
+
+#html {
+    float: left;
+    height: 300px;
+    width: 300px;
+}
+
+#css {
+    float: left;
+    height: 300px;
+    width: 300px;
+}
+
+#js {
+    float: left;
+    height: 300px;
+    width: 300px;
+}
+
+#java {
+    float: left;
+    height: 300px;
+    width: 300px;
+}
+

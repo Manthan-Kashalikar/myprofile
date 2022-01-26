@@ -1,0 +1,213 @@
+body {
+    font-family: 'Baloo 2', cursive;
+    margin: auto;
+    background-color: rgb(240, 115, 66);
+}
+
+a {
+    text-decoration: none;
+}
+
+#heading {
+    margin-top: 1px;
+    top: 10px;
+    background-color: #8e0098;
+    border-radius: 50px;
+    position: fixed;
+    width: 100%;
+    height: 100px;
+}
+
+#name {
+    display: inline-block;
+    margin-left: 35%;
+
+    font-family: 'Russo One', sans-serif;
+
+
+}
+
+.social {
+    margin-top: 22px;
+    float: right;
+    margin-right: 10px;
+
+
+
+}
+
+#gmail {
+    padding: 3px;
+    border-radius: 30px;
+    float: right;
+    height: 50px;
+    width: 50px;
+
+}
+
+#git {
+    float: right;
+    height: 50px;
+    padding: 3px;
+    border-radius: 30px;
+    width: 50px;
+
+}
+
+#insta {
+    float: right;
+    height: 50px;
+    padding: 3px;
+    border-radius: 30px;
+    width: 50px;
+
+}
+
+#fb {
+    float: right;
+    height: 50px;
+    padding: 3px;
+    border-radius: 30px;
+    width: 50px;
+
+}
+
+#pic {
+    float: left;
+    top: 170px;
+    width: 18%;
+    margin-top: 170px;
+    margin-left: 80px;
+    height: 320px;
+    border-radius: 30px;
+}
+
+#myinfo {
+    top: 170px;
+    /* border: 2mm solid red; */
+    width: 60%;
+    float: right;
+    /* margin-left: 128px; */
+    margin-top: 170px;
+    color: #291919;
+    background-color: #dc61309e;
+    border-radius: 30PX;
+    padding: 10PX;
+
+    margin-right: 50px;
+    font-size: 39px;
+    overflow: scroll;
+}
+
+#skill {
+    top: 600px;
+}
+
+#t1 {
+    /* top: 14000px; */
+    margin-left: 30px;
+    height: 60px;
+    font-weight: bold;
+    font-size: 40px;
+    margin-top: 30px;
+    border-radius: 30px;
+    padding: 10px;
+    display: inline-block;
+    color: #050505;
+    background-color: #943e1da6;
+}
+
+.tech {
+    background-color: #e3ebf1fa;
+    height: 340px;
+    margin-left: 3px;
+    margin-right: 3px;
+    margin-top: 20px;
+    border-radius: 47px;
+    padding-left: 50px;
+    padding-top: 58px;
+    /* padding-bottom: 30px; */
+    top: 30%;
+}
+
+#html {
+    float: left;
+
+    height: 300px;
+    width: 300px;
+}
+
+#css {
+    padding-left: 30px;
+    float: left;
+    height: 300px;
+    width: 300px;
+}
+
+#js {
+    float: left;
+    height: 300px;
+    padding-left: 30px;
+    width: 300px;
+}
+
+#java {
+    padding-left: 30px;
+    float: left;
+    height: 300px;
+    width: 300px;
+}
+
+#contact {
+    margin-top: 30px;
+}
+
+#map {
+    float: left;
+    width: 68%;
+    text-align: center;
+
+}
+
+#office {
+    font-size: 60px;
+}
+
+#racall {
+    float: right;
+    font-size: 60px;
+    text-align: center;
+
+}
+
+#confused {
+    border-radius: 100px;
+    margin-right: 10px;
+    /* height: px; */
+}
+
+#help {
+    color: #492121;
+}
+
+#form {
+    color: azure;
+    display: block;
+    font-family: 'Days One', sans-serif;
+    font-style: italic;
+    margin-right: 24px;
+
+}
+
+#credits {
+    font-size: 30px;
+    margin-left: 33%;
+    margin-top: 56px;
+    float: left;
+    background-color:#d05c2f;
+    padding: 20px;
+    border-radius: 25px;
+    font-family: 'Suez One', serif;
+
+    
+}
