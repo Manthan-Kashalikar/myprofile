@@ -1,0 +1,11 @@
+body{
+    margin: auto;
+    background-color: #636b74a6;
+}
+#heading{
+    position: fixed;
+    text-align: center;
+    display: block;
+    padding-left: 35%;
+
+}

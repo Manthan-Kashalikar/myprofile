@@ -97,7 +97,7 @@ a {
     margin-right: 50px;
     font-size: 39px;
     overflow: scroll;
-    background-color: lightblue;
+    background-color: #de9d8352;
   width: 810px;
   height: 310px;
   overflow: auto    ;
@@ -137,29 +137,41 @@ a {
 #html {
     float: left;
 
-    height: 300px;
-    width: 300px;
+    height: 240px;
+    width: 240px;
 }
+#cpp {
+    float: left;
+    padding-left: 30px;
 
+    height: 240px;
+    width: 190px;
+}
+#python {
+    float: left;
+
+    height: 240px;
+    width: 240px;
+}
 #css {
     padding-left: 30px;
     float: left;
-    height: 300px;
-    width: 300px;
+    height: 240px;
+    width: 190px;
 }
 
 #js {
     float: left;
-    height: 300px;
+    height: 240px;
     padding-left: 30px;
-    width: 300px;
+    width: 219px;
 }
 
 #java {
     padding-left: 30px;
     float: left;
-    height: 300px;
-    width: 300px;
+    height: 240px;
+    width: 190px;
 }
 
 #contact {
